@@ -1,6 +1,6 @@
 # This file contains meta data for various social media sites
 email:
-  name: Email
+  name: bernhardt@mathb.rwth-aachen.de
   icon: icon-mail
   prepend: 'mailto:'
 amazon:
@@ -102,7 +102,7 @@ ondrive:
   name: OneDrive
   icon: icon-ondrive
 github:
-  name: GitHub
+  name: DominikBernhardt
   icon: icon-github
   prepend: "https://github.com/"
 npm:
