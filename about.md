@@ -4,7 +4,7 @@ order: 4
 image: /assets/img/blog/hydejack-8.png
 ---
 
-# About
+# About me
 
 I am a PhD student at RWTH Aachen University, Lehrstuhl B für Mathematik, Lehr- und Forschungsgebiet
 Algebra, in the research group of Alice Niemeyer.
