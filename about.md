@@ -14,7 +14,7 @@ My main interest lie in the intersection between Permutation Group Theory and Al
 ## My contact details:
 * Dominik Bernhardt, M.Sc.
 
-   Pontdriesch 10-16
-   Room: 302 (4th floor, next to the Mathelounge)
-   Phone: 0241-80-TBA
+   Pontdriesch 10-16  
+   Room: 302 (4th floor, next to the Mathelounge)  
+   Phone: 0241-80-TBA  
    [My Email](mailto:bernhardt@mathb.rwth-aachen.de)
