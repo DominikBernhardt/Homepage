@@ -1,6 +1,6 @@
 ---
 menu: true
-order: 4
+order: 1
 image: /assets/icons/icon.png
 ---
 
