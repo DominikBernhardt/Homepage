@@ -13,7 +13,8 @@ My main interest lie in the intersection between Permutation Group Theory and Al
 
 ## My contact details  
 Dominik Bernhardt, M.Sc.  
-   Pontdriesch 10-16, 52064 Aachen, Germany  
+   Pontdriesch 10-16,  
+   52064 Aachen, Germany  
    Room 302 (4th floor, next to the Mathelounge)  
    Phone 0241-80-97554
    [My Email](mailto:bernhardt@mathb.rwth-aachen.de)
