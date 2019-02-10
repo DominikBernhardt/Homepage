@@ -15,6 +15,8 @@ image: /assets/icons/icon.png
 
 ## Supervision of Bachelor theses
 * **Winter semester 2018/2019**  
-  *A new algorithm to compute arbitrary reduced table of marks of permutation groups*, with Prof. Dr. Alice Niemeyer
+  *A new algorithm to compute arbitrary reduced table of marks of permutation groups*  
+  with Prof. Dr. Alice Niemeyer
 * **Summer semester 2018**  
-  *Finding normal subgroups of small index of a finitely presented group*, with Prof. Dr. Alice Niemeyer  
+  *Finding normal subgroups of small index of a finitely presented group*  
+  with Prof. Dr. Alice Niemeyer  
