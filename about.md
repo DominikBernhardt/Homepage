@@ -17,4 +17,4 @@ Dominik Bernhardt, M.Sc.
    52064 Aachen, Germany  
    Room 302 (4th floor, next to the Mathelounge)  
    Phone 0241-80-97554  
-   [My Email](mailto:bernhardt@mathb.rwth-aachen.de)
+   [Email](mailto:bernhardt@mathb.rwth-aachen.de)
