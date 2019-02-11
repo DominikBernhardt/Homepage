@@ -223,17 +223,17 @@ collections:
 # ========================================================================================
 
 exclude:
-  - vendor
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - package.json
-  - package-lock.json
-  - webpack.config.js
-  - "*.gemspec"
-  - _js
-  - _plugins
-  - .sass-cache
+    #  - vendor
+    #- Gemfile
+    #- Gemfile.lock
+    # - node_modules
+    # - package.json
+    # - package-lock.json
+    #- webpack.config.js
+    #- "*.gemspec"
+    #- _js
+    #- _plugins
+    #- .sass-cache
 include:
   - LICENSE.md
 
