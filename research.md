@@ -20,5 +20,4 @@ Some conferences I intend to attend this year
 * [Summer School Matrix Group Recognition](https://lbfm-rwth.github.io/Summer-School-MGRP/) in Aachen, Germany, 1.7.2019-5.7.2019.
 * [Summer School Modern Theory of Group Actions and the Special Role of Finite Simple Groups](https://ewmems2019mli.sciencesconf.org/) in Djursholm, Sweden, 3.6.2019-7.6.2019.
 * [GAP-Days on Modern Permutation Group Algorithms](https://www.gapdays.de/gapdays2019-spring/) in Halle, Germany, 18.3.2019-22.3.2019.
-* Grüppchen in Giessen, Germany, 15.3.2019-16.3.2019, where I am going to give a talk.
-
+* Grüppchen in Giessen, Germany, 15.3.2019-16.3.2019, where I am going to give a talk. You can find [my slides here]({{site.url}}/assets/Grueppchen_2019_Bernhardt.pdf). They are in German.
