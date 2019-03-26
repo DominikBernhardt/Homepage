@@ -8,7 +8,7 @@ cover: true
 
 You can find information on these subpages:
 
-* [About me]({{site.url}}/about)
-* [My research]({{site.url}}/research)
-* [My teaching]({{site.url}}/teaching)
+* [About me]({{site.url}}/about/)
+* [My research]({{site.url}}/research/)
+* [My teaching]({{site.url}}/teaching/)
  
