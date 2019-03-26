@@ -1,8 +1,8 @@
----
-menu: true
-order: 1
-image: /assets/icons/icon.png
----
+[comment]: <>  ---
+[comment]: <> menu: true
+[comment]: <> order: 1
+[comment]: <> image: /assets/icons/icon.png
+[comment]: <> ---
 
 # About me
 
