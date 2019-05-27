@@ -7,7 +7,8 @@ image: /assets/icons/icon.png
 # About me
 
 I am a PhD student at RWTH Aachen University, Lehrstuhl B für Mathematik, Lehr- und Forschungsgebiet
-Algebra, in the research group of Alice Niemeyer.
+Algebra, in the research group of Alice Niemeyer. I am partly funded by a
+[RWTH Aachen University Scholarship for Doctoral Students](http://www.rwth-aachen.de/cms/root/Studium/Im-Studium/Stipendien-Foerderung/~bgzk/RWTH-Graduiertenfoerderung/?lidx=1).
 
 My main interests lie in the intersection between Permutation Group Theory and Algebraic Graph Theory.
 
