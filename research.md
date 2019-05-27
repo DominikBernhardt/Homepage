@@ -16,7 +16,7 @@ order: 2
   Supervised by Prof. Dr. Wilhelm Plesken
 
 ## Conferences
-Some conferences I attend this year:
+Some past and upcoming conferences I am involved in: 
 * [GAP Singular Meeting and School](https://opendreamkit.org/meetings/2019-04-02-GAPSingularMeeting/) at
 PfalzAkademie, Lambrecht, Germany, 15.08.2019- 23.08.2019.
 * [Summer School Matrix Group Recognition](https://lbfm-rwth.github.io/Summer-School-MGRP/) in Aachen, Germany, 1.7.2019-5.7.2019.
