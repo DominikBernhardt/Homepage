@@ -7,7 +7,7 @@ order: 2
 
 ## Theses
 * **PhD thesis**    
-* *Automorphism groups of graphs - Enumerating and Classifying*
+ *Automorphism groups of graphs - Enumerating and Classifying*
     Supervised by Prof. Dr. Wilhelm Plesken and Prof. Dr. Alice Niemeyer
 * **Master's thesis**     
   *Construction of automorphism groups of simple graphs with at most 30 vertices*    
