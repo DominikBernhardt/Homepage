@@ -18,7 +18,7 @@ order: 2
 
 ## Conferences
 Some past and upcoming conferences I am involved in: 
-* [Algorithms for Linear Groups](https://www.birs.ca/events/2020/5-day-workshops/20w5040) at Banff Internationa; Research Station, 21.6.2020-26.6.2020
+* [Algorithms for Linear Groups](https://www.birs.ca/events/2020/5-day-workshops/20w5040) at Banff International Research Station, Banff, 21.6.2020-26.6.2020
 * [42nd Australasian Conference on Combinatorial Mathematics and Combinatorial
 Computing](https://conferences.maths.unsw.edu.au/event/3/), UNSW Sydney, 0.12.2019-13.12.2019
 * [GAP Singular Meeting and School](https://opendreamkit.org/meetings/2019-04-02-GAPSingularMeeting/) at
