@@ -24,5 +24,5 @@ image: /assets/icons/icon.png
   *A new algorithm to compute arbitrary reduced table of marks of permutation groups*  
   with Prof. Dr. Alice Niemeyer
 * **Summer semester 2018**  
-  *Finding normal subgroups of small index of a finitely presented group*  
+  *Finding normal subgroups of small index of a finitely presented group*
   with Prof. Dr. Alice Niemeyer  
