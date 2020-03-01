@@ -25,7 +25,7 @@ Germany, 17.07.2020-18.07.2020
 * Speaker at [Grüppchen 2020](https://www2.mathematik.uni-halle.de/waldecker/), Halle (Saale), Germany, 28.02.2020-29.02.2020 
 * Speaker at [42nd Australasian Conference on Combinatorial Mathematics and Combinatorial
 Computing](https://conferences.maths.unsw.edu.au/event/3/), UNSW Sydney, Australia, 9.12.2019-13.12.2019
-* Participant at [GAP Singular Meeting and School](https://opendreamkit.org/meetings/2019-04-02-GAPSingularMeeting/) at
+* Speaker at [GAP Singular Meeting and School](https://opendreamkit.org/meetings/2019-04-02-GAPSingularMeeting/) at
 PfalzAkademie, Lambrecht, Germany, 15.08.2019- 23.08.2019
 * Participant [Summer School Matrix Group Recognition](https://lbfm-rwth.github.io/Summer-School-MGRP/) in Aachen, Germany, 1.7.2019-5.7.2019
 * Participant at [Norddeutsches Gruppentheorie-Kolloquium](https://algebra.mathematik.uni-halle.de/ndgk_2019/) in Halle,
