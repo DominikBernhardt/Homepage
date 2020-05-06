@@ -13,7 +13,7 @@ order: 2
   *Construction of automorphism groups of simple graphs with at most 30 vertices*   
   Supervised by Prof. Dr. Wilhelm Plesken and Prof. Dr. Alice Niemeyer
 * **Bachelor thesis**  
-  *Applications of the Burside ring*  
+  *Applications of the Burnside ring*  
   Supervised by Prof. Dr. Wilhelm Plesken
 
 ## Conferences
